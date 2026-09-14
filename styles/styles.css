@@ -12,7 +12,7 @@ nav {
 }
 
 nav a {
-    display: flex;
+    display: block;
     justify-content: space-between;
     flex-direction: column;
     padding: 3px;
