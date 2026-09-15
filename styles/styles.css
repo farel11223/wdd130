@@ -1,7 +1,7 @@
 * {
-    margin: 1;
+    margin: 1px;
 
-    padding: 1;
+    padding: 1px;
 }
 
 header {
@@ -30,8 +30,8 @@ body {
 }
 
 main {
-    max-width: auto;
-    margin: auto;
+    max-width: 600px;
+    margin: 500;
 }
 
 p {
@@ -53,7 +53,7 @@ h1 {
     padding: 10px;
 
     text-align: left;
-    font-size: 1.5;
+    font-size: 1.5em;
     border-bottom: 1px rgb(19, 18, 17);
 }
 
