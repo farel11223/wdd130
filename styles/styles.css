@@ -11,8 +11,13 @@ header {
 
 }
 
+nav {
+    background-color: burlywood;
+    padding: 3px;
+}
+
 nav a {
-    display: flex;
+    display: block;
     justify-content: space-between;
     flex-direction: column;
     padding: 3px;
@@ -25,7 +30,7 @@ body {
 }
 
 main {
-    width: auto;
+    min-width: auto;
     margin: auto;
 }
 
@@ -57,7 +62,7 @@ aside {
     margin: 1px;
     border: 1px solid black;
     padding: 1em;
-    background-color: rgb(218, 208, 208);
+    background-color: burlywood;
     color: black;
     text-align: center;
 }
