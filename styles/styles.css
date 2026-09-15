@@ -30,7 +30,7 @@ body {
 }
 
 main {
-    min-width: auto;
+    max-width: auto;
     margin: auto;
 }
 
